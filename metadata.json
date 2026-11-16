@@ -1,0 +1,6 @@
+{
+  "name": "Универсальный AI-продажник",
+  "description": "Интерактивный демо-стенд агентной AI-системы продаж: 10 экспертных агентов ведут клиента от первого вопроса до сделки в трёх разных темах на одном движке.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
